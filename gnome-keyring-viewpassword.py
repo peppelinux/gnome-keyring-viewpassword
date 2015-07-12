@@ -1,5 +1,8 @@
 #!/usr/bin/env python
- 
+
+# copied from
+# http://blog.schmichael.com/2008/10/30/listing-all-passwords-stored-in-gnome-keyring/
+
 import pygtk
 pygtk.require('2.0')
 import gtk # sets app name
